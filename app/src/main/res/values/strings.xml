@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculadoraV2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home Calculadora</string>
+    <string name="second_fragment_label">Ejecucion Calculadora</string>
+    <string name="next">Inicar Calculadora</string>
+    <string name="previous">Home</string>
+
+    <string name="hello_first_fragment">UNIVERSIDAD MANUELA BELTRAN</string>
+    <string name="subtitulo_2">Desarrollo Dispositivos Moviles</string>
+    <string name="hello_second_fragment">Aca esta la Calculadora</string>
+</resources>
